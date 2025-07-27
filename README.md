@@ -13,7 +13,7 @@ composer require ayoub-amzil/soft-delete-logger
 ### 1. Publish the migration
 
 ```
-php artisan vendor:publish --tag=migrations
+php artisan vendor:publish --tag=soft-delete-logger-migrations
 ```
 
 Then migrate:
