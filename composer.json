@@ -3,7 +3,7 @@
   "description": "Log soft deletes and restore actions on Eloquent models with user tracking in Laravel.",
   "type": "library",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Ayoub Amzil",
